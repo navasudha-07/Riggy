@@ -1,0 +1,39 @@
+# PyInstaller build output
+/build/
+/dist/
+__pycache__/
+*.spec
+
+# Temporary / generated files
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.pdf
+*.mp4
+*.gif
+*.epub
+*.png
+
+# Generated reports (runtime output)
+pdf_report_*.pdf
+epub_report_*.epub
+gravacao_graficos_*.mp4
+
+# Large binary / DLL files
+*.dll
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE / Editor settings
+.DS_Store
+.vscode/
+.idea/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+Riggy-App.zip
